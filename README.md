@@ -1,4 +1,3 @@
 # stepik_auto_tests_course
 Автоматизация тестирования веб-приложений с помощью Selenium и Python
-
-some updates
+https://stepik.org/course/575
